@@ -1,0 +1,7 @@
+﻿  GameP.cpp
+C:\Users\GIN PC\Documents\New folder\GameP\GameP\GameP.cpp(28,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GIN PC\Documents\New folder\GameP\GameP\GameP.cpp(173,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GIN PC\Documents\New folder\GameP\GameP\GameP.cpp(173,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GIN PC\Documents\New folder\GameP\GameP\GameP.cpp(174,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GIN PC\Documents\New folder\GameP\GameP\GameP.cpp(174,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameP.vcxproj -> C:\Users\GIN PC\Documents\New folder\GameP\x64\Debug\GameP.exe
